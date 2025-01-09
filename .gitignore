@@ -1,0 +1,74 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+dist/
+build/
+
+# TypeScript compiled files
+*.tsbuildinfo
+*.d.ts
+*.js
+*.js.map
+*.cjs
+*.cjs.map
+*.mjs
+*.mjs.map
+
+# TypeScript configuration
+tsconfig.tsbuildinfo
+
+# Environment variables
+.env
+.env.*.local
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache
+.npm
+
+# Coverage directory (e.g., Jest or other coverage tools)
+coverage/
+
+# ESLint and Prettier cache files
+.eslintcache
+.prettiercache
+
+# Temporary files
+tmp/
+temp/
+
+# Parcel cache (if using Parcel bundler)
+.cache/
+
+# Next.js output (if applicable)
+.next/
+
+# Storybook output
+.out/
+
+# Yarn specific files
+.pnp.*
+.yarn-integrity
+
+# Lockfiles (if you prefer to avoid committing them)
+package-lock.json
+yarn.lock
